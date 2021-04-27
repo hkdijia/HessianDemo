@@ -1,9 +1,7 @@
 # HessianDemo
-最近公司有个项目使用了Hessian（麻袋布），特做个Demo备份。
 
 Hessian以高性能，使用简单闻名，使用起来确实非常简单，结合强大的SpringBoot，整个范例实现了config的CRUD，代码不到50行，非常有实战意义。
 
-知乎贴 https://zhuanlan.zhihu.com/p/30452774
 
 # 创建工程
 
